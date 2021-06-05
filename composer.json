@@ -1,12 +1,12 @@
 {
-    "name": "jair.foro/recharge",
+    "name": "jair.foro/garage-challenge",
     "require": {
         "phpunit/phpunit": "^9.5"
     },
     "authors": [
         {
             "name": "Jair Foro",
-            "email": "jair.foro@olx.com"
+            "email": "jairforo@gmail.com"
         }
     ],
     "autoload": {
