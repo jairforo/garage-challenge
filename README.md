@@ -1,4 +1,4 @@
-#Garage challenge
+# Garage challenge
 This challenge is about design an application using OOP and PHP for a parking company that wants to
 scale up and want's to have better understanding and control of their available parking slots
 and define the vehicle types which floor supports.
