@@ -14,7 +14,7 @@ and define the vehicle types which floor supports.
     ├── src                     # Source files
         ├── Contracts           # Interfaces
         ├── Exceptions          # Exceptions
-    ├── test                    # Automated tests
+    ├── tests                   # Automated tests
         ├── Unit                # Unit tests
     ├── .gitignore
     ├── composer.json
