@@ -1,0 +1,22 @@
+{
+    "name": "jair.foro/recharge",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Jair Foro",
+            "email": "jair.foro@olx.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "App\\Tests\\": "tests/"
+      }
+    }
+}
