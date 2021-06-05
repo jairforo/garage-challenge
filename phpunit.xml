@@ -6,7 +6,7 @@
         </include>
     </coverage>
     <testsuites>
-        <testsuite name="Recharge">
+        <testsuite name="Garage Challenge">
             <directory>./tests</directory>
         </testsuite>
     </testsuites>
